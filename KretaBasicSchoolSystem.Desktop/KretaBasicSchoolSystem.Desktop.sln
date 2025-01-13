@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KretaBasicSchoolSystem.Desk
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kreata.Backend", "..\Kreata.Backend\Kreata.Backend.csproj", "{64092A98-485A-44D6-BD3B-06A925AA3752}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kreta.Shared", "..\Kreta.Shared\Kreta.Shared.csproj", "{620BD150-089E-478B-A1ED-36B3A725F8A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{64092A98-485A-44D6-BD3B-06A925AA3752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64092A98-485A-44D6-BD3B-06A925AA3752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64092A98-485A-44D6-BD3B-06A925AA3752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620BD150-089E-478B-A1ED-36B3A725F8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620BD150-089E-478B-A1ED-36B3A725F8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620BD150-089E-478B-A1ED-36B3A725F8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620BD150-089E-478B-A1ED-36B3A725F8A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
